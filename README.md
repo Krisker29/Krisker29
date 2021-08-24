@@ -2,6 +2,7 @@
 - 👀 I’m interested in GitLab for now
 - 🌱 I’m currently learning ...
 
+First push
 
 <!---
 Krisker29/Krisker29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
